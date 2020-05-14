@@ -1,0 +1,44 @@
+{
+  "Home": {
+    "homeTab": "होम"
+  },
+  "Donate": {
+    "donateTab": "डोनेट"
+  },
+  "Distribute": {
+    "distributeTab": "वितरित करें"
+  },
+  "Account": {
+    "userTab": "उपयोगकर्ता",
+    "userCampaigns": "उपयोगकर्ता अभियान",
+    "joinedCampaigns": "अभियान में शामिल हुए",
+    "donationHistory": "डोनेशन हिस्ट्री"
+  },
+  "Login": {
+    "login": "लॉग इन",
+    "emailPlaceHolder": "आप ईमेल दर्ज करें",
+    "passwordPlaceHolder": "आप पासवर्ड दर्ज करें",
+    "emailLabel": "ईमेल / उपयोगकर्ता नाम: ",
+    "passwordLabel": "पासवर्ड: ",
+    "invalidEmail": "कृपया मान्य ईमेल दर्ज करें।",
+    "requiredEmail": "कृपया ईमेल दर्ज करें।",
+    "requiredPassword": "कृपया पासवर्ड दर्ज करें।"
+  },
+  "Common": {
+    "requestedAmount": "अनुरोधित:",
+    "availedAmount": "उपलब्ध:",
+    "unit": "यूनिट्स",
+    "currentPrice": "मूल्य:",
+    "members": "सदस्य:",
+    "doners": "डोनर्स:",
+    "viewAll": "सभी देखें",
+    "retry": "पुनः प्रयास करें"
+  },
+  "ScreenTitle": {
+    "login": "Login",
+    "singUp": "Sing Up"
+  },
+  "Error": {
+    "unauthenticatedUser": "User unauthenticated please login."
+  }
+}

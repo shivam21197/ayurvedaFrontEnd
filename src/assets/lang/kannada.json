@@ -1,0 +1,44 @@
+{
+  "Home": {
+    "homeTab": "Home"
+  },
+  "Donate": {
+    "donateTab": "Donate"
+  },
+  "Distribute": {
+    "distributeTab": "Distribute"
+  },
+  "Account": {
+    "userTab": "User",
+    "userCampaigns": "User Campaigns",
+    "joinedCampaigns": "Joined Campaigns",
+    "donationHistory": "Donation History"
+  },
+  "Login": {
+    "login": "Login",
+    "emailPlaceHolder": "Enter you email",
+    "passwordPlaceHolder": "Enter you password",
+    "emailLabel": "Email/Username: ",
+    "passwordLabel": "Password: ",
+    "invalidEmail": "Please enter valid email.",
+    "requiredEmail": "Please enter email.",
+    "requiredPassword": "Please enter password."
+  },
+  "Common": {
+    "requestedAmount": "Requested:",
+    "availedAmount": "Availed:",
+    "unit": "units",
+    "currentPrice": "Price:",
+    "members": "Members:",
+    "doners": "Doners:",
+    "viewAll": "view all",
+    "retry": "Retry"
+  },
+  "ScreenTitle": {
+    "login": "Login",
+    "singUp": "Sing Up"
+  },
+  "Error": {
+    "unauthenticatedUser": "User unauthenticated please login."
+  }
+}

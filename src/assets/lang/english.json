@@ -1,0 +1,77 @@
+{
+  "Home": {
+    "homeTab": "Home"
+  },
+  "Donate": {
+    "donateTab": "Donate",
+    "campaignNearYou": "Campaigns near you:",
+    "areaRange": "Area Range:",
+    "noCampaigns": "Oops! There is no Campaign at this area range. Try changing the area range.",
+    "addYourCampaign": "Why not add your own campaign ?."
+  },
+  "Distribute": {
+    "distributeTab": "Distribute"
+  },
+  "Account": {
+    "userTab": "User",
+    "userCampaigns": "User Campaigns",
+    "joinedCampaigns": "Joined Campaigns",
+    "donationHistory": "Donation History",
+    "userSettings": "Settings"
+  },
+  "Setting": {
+    "settingTab": "Setting",
+    "username": "Username:",
+    "email": "Email:",
+    "contactNumber": "Contact Number:",
+    "DOB": "DOB:",
+    "oldPassword": "Old Password:",
+    "newPassword": "New Password:",
+    "oldPasswordPlaceholed": "Enter your old password",
+    "newPasswordPlaceholed": "Enter your new password",
+    "invalidEmail": "Please enter a valid email.",
+    "requiredEmail": "Please enter a email.",
+    "requiredName": "Please enter the name.",
+    "requiredUserName": "Please enter the username.",
+    "requiredContactNumber": "Please enter the contact Number.",
+    "requiredDOB": "Please enter the DOB.",
+    "requiredOldPassword": "Please enter the old Password.",
+    "requiredNewPassword": "Please enter the new Password.",
+    "requiredMaxDistance": "Please enter the new max Distance.",
+    "distributionRange": "Distribution range:"
+  },
+  "Login": {
+    "login": "Login",
+    "emailPlaceHolder": "Enter you email",
+    "passwordPlaceHolder": "Enter you password",
+    "emailLabel": "Email/Username: ",
+    "passwordLabel": "Password: ",
+    "invalidEmail": "Please enter valid email.",
+    "requiredEmail": "Please enter email.",
+    "requiredPassword": "Please enter password."
+  },
+  "Common": {
+    "requestedAmount": "Requested:",
+    "availedAmount": "Availed:",
+    "unit": "units",
+    "currentPrice": "Price:",
+    "members": "Members:",
+    "doners": "Doners:",
+    "viewAll": "view all",
+    "retry": "Retry",
+    "amount": "Amount:",
+    "donate": "Donate",
+    "donatePlaceholder": "Please Donate",
+    "campaignOverview": "Campaign Overview:",
+    "entityRequired": "Entity value requied.",
+    "entityValueGreater": "entity value cant be more than required",
+    "donateError": "Oops! Somthing happend please try again."
+  },
+  "ScreenTitle": {
+    "login": "Login",
+    "singUp": "Sing Up"
+  },
+  "Error": {
+    "unauthenticatedUser": "User unauthenticated please login."
+  }
+}

@@ -1,0 +1,17 @@
+export const colors = {
+  nero: '#1a1a1a',
+  raisinBlack: '#262626',
+  screamingGreen: '#66ff66',
+  whiteSmoke: '#f2f2f2',
+  mustard: '#ffdb4d',
+  black: '#000000',
+  white: '#FFFFFF',
+  transparent: 'transparent',
+  grey: '#cccccc',
+  green: 'green',
+  orange: 'orange',
+  tomato: '#F25139',
+  lightBlue: '#edf7ff',
+  skyBlue: '#75baff',
+  darkBlue: '#0000ff',
+};

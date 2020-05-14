@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "src",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-native",
+    "lib": ["es6"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "paths": {
+      "@assets/*": ["assets/*"],
+      "@components/*": ["components/*"],
+      "@domain/*": ["domain/*"],
+      "@gateways/*": ["gateways/*"],
+      "@mockData/*": ["../__mockData__/*"],
+      "@models/*": ["domain/models/*"],
+      "@modules/*": ["modules/*"],
+      "@navigation/*": ["navigation/*"],
+      "@network/*": ["network/*"],
+      "@repositories/*": ["domain/repositories/*"],
+      "@screens/*": ["screens/*"],
+      "@services/*": ["services/*"],
+      "@styles/*": ["styles/*"],
+      "@utils/*": ["utils/*"]
+    },
+    "strict": true,
+    "target": "esnext"
+  },
+  "exclude": ["node_modules"],
+  "skipLibCheck": true
+}
