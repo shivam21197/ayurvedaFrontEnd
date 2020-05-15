@@ -63,26 +63,26 @@ const AppTabs = () => (
       component={HomeStack}
       options={getTabOptions(RoutesNames.HomeStack)}
     />
-    <Tab.Screen
+    {/* <Tab.Screen
       name={RoutesNames.DonationStack}
       component={DonationStack}
       options={getTabOptions(RoutesNames.DonationStack)}
-    />
-    <Tab.Screen
+    /> */}
+    {/* <Tab.Screen
       name={RoutesNames.DistributorStack}
       component={DistributorStack}
       options={getTabOptions(RoutesNames.DistributorStack)}
-    />
+    /> */}
     <Tab.Screen
       name={RoutesNames.AccountStack}
       component={AccontStack}
       options={getTabOptions(RoutesNames.AccountStack)}
     />
-    <Tab.Screen
+    {/* <Tab.Screen
       name={RoutesNames.SettingStack}
       component={SettingStack}
       options={getTabOptions(RoutesNames.SettingStack)}
-    />
+    /> */}
   </Tab.Navigator>
 );
 
